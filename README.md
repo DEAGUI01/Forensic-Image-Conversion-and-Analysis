@@ -237,7 +237,7 @@ The file name is WorkingFile.zip
 8 - How many timestamps are included in this MFT Record?
 <br />
 <br />
-4 Time Stamps total across the $STANDARD_INFORMATION AND $FILENAME attributes
+8 Time Stamps total across the $STANDARD_INFORMATION AND $FILENAME attributes
 <br />
 <br />
 9 - What is the starting cluster of this file/directory? What is the run length of the first data run?
